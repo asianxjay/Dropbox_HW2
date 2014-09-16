@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		DA8FC98F19C7D9C000407722 /* SigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8FC98E19C7D9C000407722 /* SigninViewController.swift */; };
-		DA8FC99219C7DA4B00407722 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA8FC99019C7DA4B00407722 /* Main.storyboard */; };
 		DAAD4CBF19C6B57A00AC3FF4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAAD4CBE19C6B57A00AC3FF4 /* AppDelegate.swift */; };
 		DAAD4CC119C6B57A00AC3FF4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAAD4CC019C6B57A00AC3FF4 /* ViewController.swift */; };
 		DAAD4CC419C6B57A00AC3FF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAAD4CC219C6B57A00AC3FF4 /* Main.storyboard */; };
@@ -33,7 +32,6 @@
 
 /* Begin PBXFileReference section */
 		DA8FC98E19C7D9C000407722 /* SigninViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SigninViewController.swift; path = "../../../../../../Downloads/Project_2-master/Project_2/SigninViewController.swift"; sourceTree = "<group>"; };
-		DA8FC99119C7DA4B00407722 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../../../Downloads/Project_2-master/Project_2/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
 		DAAD4CB919C6B57A00AC3FF4 /* Dropbox_HW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dropbox_HW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAAD4CBD19C6B57A00AC3FF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DAAD4CBE19C6B57A00AC3FF4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -74,7 +72,6 @@
 				DAAD4CBB19C6B57A00AC3FF4 /* Dropbox_HW */,
 				DAAD4CCE19C6B57A00AC3FF4 /* Dropbox_HWTests */,
 				DAAD4CBA19C6B57A00AC3FF4 /* Products */,
-				DA8FC99019C7DA4B00407722 /* Main.storyboard */,
 			);
 			sourceTree = "<group>";
 		};
@@ -210,7 +207,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA8FC99219C7DA4B00407722 /* Main.storyboard in Resources */,
 				DAAD4CC419C6B57A00AC3FF4 /* Main.storyboard in Resources */,
 				DAAD4CC619C6B57A00AC3FF4 /* Images.xcassets in Resources */,
 			);
@@ -260,14 +256,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		DA8FC99019C7DA4B00407722 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				DA8FC99119C7DA4B00407722 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		DAAD4CC219C6B57A00AC3FF4 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
